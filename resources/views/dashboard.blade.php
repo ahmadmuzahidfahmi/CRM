@@ -31,7 +31,7 @@
     </button>
     <span class="ml-3 text-lg font-bold" x-text="count"></span>
 
-    <div x-data="{ message: 'meow!' }">
+    <div x-data="{ message: 'test!' }">
     <p x-text="message"></p>
 </div>
 
